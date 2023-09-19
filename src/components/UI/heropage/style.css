@@ -1,0 +1,19 @@
+.hero-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+
+    .title{
+        font-family: 'Patua One';
+        font-weight: 400;
+        font-size: 3rem;
+        line-height: 5rem;
+    }
+
+    .subtitle{
+        font-size: 1.5rem;
+    }
+}
